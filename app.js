@@ -169,7 +169,6 @@ document.addEventListener('DOMContentLoaded', () => {
     new Ghost('pinky', 376, 400),
     new Ghost('inky', 351, 300),
     new Ghost('clyde', 379, 500)
-    new Ghost("Buhu"), 379, 500),
     ]
 
   //draw my ghosts onto the grid
